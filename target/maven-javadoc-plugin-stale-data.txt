@@ -1,0 +1,45 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/Azevedo/Desktop/sqlcomponent/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Azevedo/Desktop/sqlcomponent/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'sqlcomponent 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'sqlcomponent 1.0-SNAPSHOT API'
+com.example
+C:\Users\Azevedo\Desktop\sqlcomponent\src\main\java = 1717606599817
+C:\Users\Azevedo\Desktop\sqlcomponent\target\site\apidocs\allclasses-index.html = 1717607409763
+C:\Users\Azevedo\Desktop\sqlcomponent\target\site\apidocs\allpackages-index.html = 1717607409769
+C:\Users\Azevedo\Desktop\sqlcomponent\target\site\apidocs\copy.svg = 1717607409848
+C:\Users\Azevedo\Desktop\sqlcomponent\target\site\apidocs\element-list = 1717607409671
+C:\Users\Azevedo\Desktop\sqlcomponent\target\site\apidocs\help-doc.html = 1717607409822
+C:\Users\Azevedo\Desktop\sqlcomponent\target\site\apidocs\index-all.html = 1717607409802
+C:\Users\Azevedo\Desktop\sqlcomponent\target\site\apidocs\index.html = 1717607409812
+C:\Users\Azevedo\Desktop\sqlcomponent\target\site\apidocs\link.svg = 1717607409851
+C:\Users\Azevedo\Desktop\sqlcomponent\target\site\apidocs\member-search-index.js = 1717607409778
+C:\Users\Azevedo\Desktop\sqlcomponent\target\site\apidocs\module-search-index.js = 1717607409772
+C:\Users\Azevedo\Desktop\sqlcomponent\target\site\apidocs\overview-tree.html = 1717607409737
+C:\Users\Azevedo\Desktop\sqlcomponent\target\site\apidocs\package-search-index.js = 1717607409774
+C:\Users\Azevedo\Desktop\sqlcomponent\target\site\apidocs\script.js = 1717607409843
+C:\Users\Azevedo\Desktop\sqlcomponent\target\site\apidocs\search-page.js = 1717607409868
+C:\Users\Azevedo\Desktop\sqlcomponent\target\site\apidocs\search.html = 1717607409808
+C:\Users\Azevedo\Desktop\sqlcomponent\target\site\apidocs\search.js = 1717607409856
+C:\Users\Azevedo\Desktop\sqlcomponent\target\site\apidocs\stylesheet.css = 1717607409835
+C:\Users\Azevedo\Desktop\sqlcomponent\target\site\apidocs\tag-search-index.js = 1717607409780
+C:\Users\Azevedo\Desktop\sqlcomponent\target\site\apidocs\type-search-index.js = 1717607409776
