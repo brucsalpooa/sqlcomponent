@@ -15,9 +15,10 @@ Certifique-se de incluir este componente como uma dependência em seu projeto Ma
     <version>1.0-SNAPSHOT</version>
 </dependency>
 ```
-##Uso
-Você pode usar a classe SqlQueryBuilder para construir consultas SQL em seu próprio código Java. Aqui está um exemplo de como usá-lo:
 
+## Uso
+Você pode usar a classe SqlQueryBuilder para construir consultas SQL em seu próprio código Java. Aqui está um exemplo de como usá-lo:
+```
 import com.example.SqlQueryBuilder;
 
 public class Main {
@@ -26,6 +27,6 @@ public class Main {
         // Use os métodos da classe SqlQueryBuilder para construir consultas SQL
     }
 }
-
-##Documentação
+```
+## Documentação
 A documentação Javadoc está disponível no diretório target/site/apidocs após a compilação do projeto. Você pode gerar a documentação usando o comando Maven mvn javadoc:javadoc.
